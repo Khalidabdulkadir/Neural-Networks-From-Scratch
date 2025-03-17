@@ -19,7 +19,7 @@ This repository contains a neural network implementation built from scratch usin
 
 Clone the repository:
 ```bash
-git clone https://github.com/Khalidabdulkadir/Neural-Networks-Image-Classifictaion-Project.git
+git clone https://github.com/Khalidabdulkadir/Neural-Networks-From-Scratch.git
 ```
 
 Navigate to the project directory:

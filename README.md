@@ -3,7 +3,8 @@
 This repository contains a neural network implementation built from scratch using Python. The goal is to understand the inner workings of neural networks by creating one without relying on high-level libraries.
 
 ## Features
-
+ 
+ 
 - Forward propagation
 - Backward propagation
 - Gradient descent optimization

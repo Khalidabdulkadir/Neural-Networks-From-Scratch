@@ -8,8 +8,7 @@ for i in range(len(inputs)):
     sum += res
 if sum >= threshold:
     print("yes, you can go to the party")
-else:
-    print("no, you cannot go to the party")
+else:print("no, you cannot go to the party")
 
     
                
